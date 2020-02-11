@@ -12,7 +12,7 @@ My corpus will consist of all the nominated albums for these three awards. Altho
 Before looking into the data made available to us, we might already pose some questions relating to the nominees. 
 #### Do the winning albums have any features in common when compared to the other nominees?
 #### Do the data provide any characteristics that support the different between contemporary and traditional world music?
-#### Is there anything that we might noticeable call 'world music' about these albums, if we compare them to non-nominated music from their respective genres? 
+#### Is there anything that we might noticeably call 'world music' about these albums, if we compare them to non-nominated music from their respective genres? 
 
 To answer the last question, of course, we must determine the more narrowly-defined genre labels that fit the artists' music. For this, I will use everynoise.com. Gilberto Gil, for example, who was nominated for the World Music Award four times and the Contemporary Award thrice, is listed by Every Noise under bossa nova, música popular brasileira, violão, samba, forro and pagode. I will depend on my own expertise and further research to select from these genre labels. 
 
