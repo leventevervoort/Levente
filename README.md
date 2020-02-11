@@ -14,7 +14,7 @@ Before looking into the data made available to us, we might already pose some qu
 #### Do the data provide any characteristics that support the different between contemporary and traditional world music?
 #### Is there anything that we might noticeably call 'world music' about these albums, if we compare them to non-nominated music from their respective genres? 
 
-To answer the last question, of course, we must determine the more narrowly-defined genre labels that fit the artists' music. For this, I will use everynoise.com. Gilberto Gil, for example, who was nominated for the World Music Award four times and the Contemporary Award thrice, is listed by Every Noise under bossa nova, música popular brasileira, violão, samba, forro and pagode. I will depend on my own expertise and further research to select from these genre labels. 
+To answer the last question, of course, we must determine the more narrowly-defined genre labels that fit the artists' music. For this, I will use everynoise.com. Brazilian artist Gilberto Gil, for example, who was nominated for the World Music Award four times and the Contemporary Award thrice, is listed by Every Noise under bossa nova, música popular brasileira, violão, samba, forro and pagode. Tinariwen, a Tuareg group from Mali, is listed by Every Noise under the label world, but also under the labels desert blues, musique touareg, afropop, malian blues, western saharan folk, mande pop and afrobeat. Every Noise's genre labels are all more specific than world music, either geographically or style-wise.
 
 Let me now introduce the playlists in Spotify I compiled to create my corpus.
 
