@@ -27,7 +27,7 @@ These albums were unavailable:
 * Perú Negro - Jolgorio (2005)
 * Masters of Persian Music - Faryad (2006)
 * John Santos Y El Coro Folklórico - La Guerra No (2010)
-* Ten Drum Art Percussion Group - Drum Music Land 
+* Ten Drum Art Percussion Group - Drum Music Land (2010)
 
 'World music' is a highly problematic genre label. It is an  umbrella term used primarily by the capitalist music industry to commodify a variety of musical styles and crossovers that are exoticized as non-traditional, folk, ethnic, indigenous or otherwise Other to Western popular music. For a more elaborate discussions of world music position in musicological research, please confer 
 * Feld, Steven. "A sweet lullaby for world music." Public culture 12.1 (2000): 145-171.
