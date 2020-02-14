@@ -55,17 +55,17 @@ A first comparison between the nominees for the Contemporary World Music and Tra
 
 ##### Tradtional
 
-  Da    En     Sp    Ac    In    Va
+*  Da    En     Sp    Ac    In    Va
   
- 0.471 0.374 0.0834 0.810 0.220 0.517
- 0.146 0.191 0.0988 0.174 0.344 0.275
+* 0.471 0.374 0.0834 0.810 0.220 0.517
+* 0.146 0.191 0.0988 0.174 0.344 0.275
  
 ###### Contemporary
 
-Dan   Ene    Spe   Aco   Ins   Val
+*   Dan   Ene    Spe   Aco   Ins   Val
  
-0.590 0.545 0.0680 0.588 0.135 0.566
-0.152 0.240 0.0782 0.287 0.273 0.263
+* 0.590 0.545 0.0680 0.588 0.135 0.566
+* 0.152 0.240 0.0782 0.287 0.273 0.263
 
 We see that the nominees for the contemporary award were on average more danceable and had higher energy, two features that we might expect are intertwined in a a way, supposing high energy tracks are more danceable. Nominees for the traditional award were on average significantly more acoustic than their contemporary counterparts. Perhaps one way NARAS differentiated between the two monikers was to look at the use of amplified instrumentation, electr(on)ic and/or digital instrumentation. This hypotheses could be tested by testing albums from both playlist that have outlier scores for acousticness for that kind of instrumentation. A quick look into a small sample provides mixed results: out of the three 'least acoustic' tracks from the traditional playlist, only one (World in Union by the Soweto Gospel Choir) clearly uses synthesizers, while the other two (Mira Bhajan by Lakshmi Shankar and Ricky's White Face by Liz Carroll and John Doyle) seem to make use of acoustic instrumentation only. I can follow this up by a more in-depth look into acousticness.
 
