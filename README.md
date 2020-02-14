@@ -45,5 +45,34 @@ These albums were unavailable:
 * John Santos Y El Coro Folklórico - La Guerra No (2010)
 * Ten Drum Art Percussion Group - Drum Music Land (2010)
 
+### Preliminary Findings
+
+#### Comparing winners and nominess
+I first compared the Best World Music Album winning albums to the other nominated albums. No significat differences arose from this comparison. For example, the mean dancebility for  the winning albums was 0.568 with a standard deviation of 0.150, while the nominated albums on average scored a dancebility of 0.535 with s= 0.160. The other Spotify features I documented displayed differences that similarly fell within the respective standard deviations of their categories.
+
+#### Comparing contemporary and traditional world music
+A first comparison between the nominees for the Contemporary World Music and Traditional World Music Awards that were handed out between 2004 and 2011 yielded more interesting results. Below are the averages (upper number) and standard deviations (lower) for six of Spotify's documentable features for the two playlists (danceability, energy, speechiness, acousticness, instrumentalness and valence):
+
+##### Tradtional
+
+  Da    En     Sp    Ac    In    Va
+  
+ 0.471 0.374 0.0834 0.810 0.220 0.517
+ 0.146 0.191 0.0988 0.174 0.344 0.275
+ 
+###### Contemporary
+
+Dan   Ene    Spe   Aco   Ins   Val
+ 
+0.590 0.545 0.0680 0.588 0.135 0.566
+0.152 0.240 0.0782 0.287 0.273 0.263
+
+We see that the nominees for the contemporary award were on average more danceable and had higher energy, two features that we might expect are intertwined in a a way, supposing high energy tracks are more danceable. Nominees for the traditional award were on average significantly more acoustic than their contemporary counterparts. Perhaps one way NARAS differentiated between the two monikers was to look at the use of amplified instrumentation, electr(on)ic and/or digital instrumentation. This hypotheses could be tested by testing albums from both playlist that have outlier scores for acousticness for that kind of instrumentation. A quick look into a small sample provides mixed results: out of the three 'least acoustic' tracks from the traditional playlist, only one (World in Union by the Soweto Gospel Choir) clearly uses synthesizers, while the other two (Mira Bhajan by Lakshmi Shankar and Ricky's White Face by Liz Carroll and John Doyle) seem to make use of acoustic instrumentation only. I can follow this up by a more in-depth look into acousticness.
+
+
+
+
+
+
 
 
